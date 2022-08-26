@@ -1,4 +1,4 @@
-# Null-Importance-Feature-Selection
-Null Importance Feature Selection Implemetation
+# Permutation-Importance-Feature-Selection
+Implemetation of the Permutation Importance algorithm
 
-Code files include detailed information and examples of usage
+**Code files include detailed information and examples of usage
